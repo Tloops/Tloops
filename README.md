@@ -1,9 +1,14 @@
-### Hi there 👋
+### Hi there, welcome to my Github 👋
 
 [![Tloops's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tloops&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Select-60321&repo=select-60321&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=assign-D-D&repo=simple_VGA&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+
+You can click [Readme Stats](https://github.com/anuraghazra/github-readme-stats) to see how I generate the charts above.
+
 <!--
-**Tloops/Tloops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
