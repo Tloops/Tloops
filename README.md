@@ -2,9 +2,17 @@
 
 [![Tloops's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tloops&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Select-60321&repo=select-60321&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=assign-D-D&repo=simple_VGA&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+
+### Some interesting projects :computer:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Select-60321&repo=select-60321&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=assign-D-D&repo=simple_VGA&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Phantom-OJ&repo=Server&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Phantom-OJ&repo=frontend&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 You can click [Readme Stats](https://github.com/anuraghazra/github-readme-stats) to see how I generate the charts above.
 
