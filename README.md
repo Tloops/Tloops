@@ -12,7 +12,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Phantom-OJ&repo=frontend&theme=tokyonight)](https://github.com/Phantom-OJ/frontend)
 
-You can go to this repository [Readme Stats](https://github.com/anuraghazra/github-readme-stats) to see how I generate the charts above.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Have-you-ACKed-today&repo=reliable-data-transfer&theme=tokyonight)](https://github.com/Phantom-OJ/frontend)
+
+You can go to this repository [Readme Stats](https://github.com/anuraghazra/github-readme-stats) to see how I generate the charts above.:satisfied:
 
 <!--
 
