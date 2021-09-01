@@ -2,7 +2,7 @@
 
 [![Tloops's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tloops&count_private=true&theme=vue&show_icons=true)](https://github.com/Tloops)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tloops&theme=vue)](https://github.com/Tloops)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tloops&theme=vue&layout=compact)](https://github.com/Tloops)
 
 ### Some interesting projects :computer:
 
