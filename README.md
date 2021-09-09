@@ -4,14 +4,6 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tloops&theme=vue&layout=compact)](https://github.com/Tloops)
 
-### Some interesting projects :computer:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Select-60321&repo=select-60321&theme=vue)](https://github.com/Select-60321/select-60321)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Phantom-OJ&repo=frontend&theme=vue)](https://github.com/Phantom-OJ/frontend)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Have-you-ACKed-today&repo=reliable-data-transfer&theme=vue)](https://github.com/Have-you-ACKed-today/reliable-data-transfer)
-
 You can go to this repository [Readme Stats](https://github.com/anuraghazra/github-readme-stats) to see how I generate the charts above.:satisfied:
 
 <!--
