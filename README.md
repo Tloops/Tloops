@@ -4,6 +4,7 @@
 
 A senior student in SUSTech CSE.
 
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 [![](https://img.shields.io/badge/iPhone-XS-111111?style=flat-square&logo=apple&logoColor=233333)](https://www.apple.com/)
 [![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=233333)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-black?style=flat-square&logo=IntelliJ%20IDEA&logoColor=549DF0)](https://www.jetbrains.com/idea/)
