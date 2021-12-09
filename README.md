@@ -2,7 +2,10 @@
 
 ### Personal Details 💻
 
-A senior student in SUSTech CSE.
+- 🏫 A senior student in SUSTech CSE.
+- 😎 It's worth mentioning that I'm teaching Java in SUSTech as a tutor and have gained lots of compliment and supports. And I'm really enjoying teaching Java and helping noobs with fixing their bugs.
+- 🔭 I’m currently working on developing my own courseware for Java.
+- 🌱 I’m currently learning Computer Vision and Deep Learning.
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 [![](https://img.shields.io/badge/iPhone-XS-111111?style=flat-square&logo=apple&logoColor=233333)](https://www.apple.com/)
@@ -24,8 +27,6 @@ You can go to this repository [Readme Stats](https://github.com/anuraghazra/gith
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
