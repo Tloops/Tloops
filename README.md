@@ -1,4 +1,4 @@
-## Hi there, welcome! 👋
+## Hi there, welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 ### Personal Details 💻
 
