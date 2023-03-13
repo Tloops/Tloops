@@ -20,6 +20,12 @@
 
 You can go to this repository [Readme Stats](https://github.com/anuraghazra/github-readme-stats) to see how I generate the charts above.
 
+### My star history of popular repos
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Tloops/CS101B_I2CSB,Tloops/Java-Courseware&type=Date)](https://star-history.com/#Tloops/CS101B_I2CSB&Tloops/Java-Courseware&Date)
+
+
+
 <!--
 
 Here are some ideas to get you started:
