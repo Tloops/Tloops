@@ -3,7 +3,7 @@
 ### Personal Details 💻
 
 - 🏫 A graduate student in IMED ShenZhen @ SUSTech.
-- 😎 It's worth mentioning that I'm teaching Java in SUSTech as a tutor and have gained lots of compliment and supports. And I'm really enjoying teaching Java and helping noobs with fixing their bugs.
+- 😎 It's worth mentioning that I was teaching Java in SUSTech as a tutor and had gained lots of compliment and supports. And I'm really enjoying teaching Java and helping noobs with fixing their bugs.
 - 🔭 I’m currently working on medical image registration.
 - 🌱 I’m currently learning Computer Vision and Deep Learning.
 
