@@ -6,9 +6,9 @@
 - 😎 It's worth mentioning that I was teaching Java in SUSTech as a tutor and had gained lots of compliment and supports. And I'm really enjoying teaching Java and helping noobs with fixing their bugs.
 - 🔭 I’m currently working on medical image registration.
 - 🌱 I’m currently learning Computer Vision and Deep Learning.
+- 🤔 I’m looking for oppotunities of PhD.
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
-[![](https://img.shields.io/badge/iPhone-XS-111111?style=flat-square&logo=apple&logoColor=233333)](https://www.apple.com/)
 [![](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-black?style=flat-square&logo=IntelliJ%20IDEA&logoColor=549DF0)](https://www.jetbrains.com/idea/)
 [![](https://img.shields.io/badge/IDE-Pycharm-black?style=flat-square&logo=Pycharm&logoColor=07ED07)](https://www.jetbrains.com/pycharm/)
 [![](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=black)](https://www.oracle.com/java/)
@@ -31,7 +31,6 @@ You can go to this repository [Readme Stats](https://github.com/anuraghazra/gith
 Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
