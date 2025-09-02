@@ -2,11 +2,9 @@
 
 ### Personal Details 💻
 
-- 🏫 A graduate student in IMED ShenZhen @ SUSTech.
-- 😎 It's worth mentioning that I was teaching Java in SUSTech as a tutor and had gained lots of compliment and supports. And I'm really enjoying teaching Java and helping noobs with fixing their bugs.
-- 🔭 I’m currently working on medical image registration.
-- 🌱 I’m currently learning Computer Vision and Deep Learning.
-- 🤔 I’m looking for oppotunities of PhD.
+- 🏫 A phd student in NIT @ HITsz.
+- 🌱 I’m currently learning Deep Learning and Signal Processing.
+- 😎 It's worth mentioning that I was teaching Java in SUSTech as a tutor and had gained lots of compliments and support. And I'm really enjoying teaching Java and helping noobs with fixing their bugs.
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 [![](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-black?style=flat-square&logo=IntelliJ%20IDEA&logoColor=549DF0)](https://www.jetbrains.com/idea/)
@@ -34,6 +32,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+- 🤔 I’m looking for: ...
+- 🔭 I’m currently working on medical image registration.
 - ⚡ Fun fact: ...
 -->
 
